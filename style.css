@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: gray;
+    font-family: arial, sans-serif;
+}
+
+div {
+    color: white;
+    margin: 40px 30px 30px 30px;
+}
+
+h1 {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    color: black;
+}
+
+.s14 {
+    background-color: #4280CB;
+    padding: 10px;
+}
+
+.s13 {
+    background-color: #4790D4;
+    padding: 10px;
+
+}
+
+.s12 {
+    background-color: #4AA0DD;
+    padding: 10px;
+}
+
+.s11 {
+    background-color: #57A9E1;
+    padding: 10px;
+}
+
+.s10 {
+    background-color: #6BB9E9;
+    padding: 10px;
+}
+
+.s9 {
+    background-color: #85C6EB;
+    padding: 10px;
+}
+
+.s8 {
+    background-color: #98CFF0;
+    padding: 10px;
+}
+
+.s7 {
+    background-color: #3DBB7C;
+    padding: 10px;
+}
+
+.s6 {
+    background-color: #F69CD0;
+    padding: 10px;
+}
+
+.s5 {
+    background-color: #F484C4;
+    padding: 10px;
+}
+
+.s4 {
+    background-color: #F46EB5;
+    padding: 10px;
+}
+
+.s3 {
+    background-color: #F155A6;
+    padding: 15px;
+}
+
+.s2 {
+    background-color: #F14496;
+    padding: 15px;
+}
+
+.s1 {
+    background-color: #EF348B;
+    padding: 15px;
+}
+
+.s0 {
+    background-color: #EC1A7D;
+    padding: 15px;
+}
